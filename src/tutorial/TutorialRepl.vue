@@ -14,7 +14,6 @@ import {
   VTIconChevronLeft,
   VTIconChevronRight,
   VTLink,
-  useCopyCode
 } from '@vue/theme'
 
 const store = new ReplStore({
